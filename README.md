@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithdhyan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithdhyan?logo=twitter&style=for-the-badge" alt="codewithdhyan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [codewithdhyan.vercel.app](?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/codewithdhyan?tab=repositories" target="_blank">here</a>.
 
 - 📝 I regularly write articles on [codewithdhyan-blogs.vercel.app](codewithdhyan-blogs.vercel.app)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamdhyanisde@gmail.com**
 
-- 📄 Know about my experiences [codewithdhyan.vercel.app](codewithdhyan.vercel.app)
+- 📄 If you want to know more about me vist <a href="https://codewithdyan.vercel.app" target="_blank">here</a>.
 
 - ⚡ Fun fact **Coding sometimes infiltrates my dreams so intensely that I once dreamt I was debugging a bug in real life—only to wake up and realize I had been trying to fix a pillow that was oddly shaped like a syntax error! Turns out, even in my sleep, I'm a programmer at heart.**
 
