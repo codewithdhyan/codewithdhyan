@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithdhyan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithdhyan?logo=twitter&style=for-the-badge" alt="codewithdhyan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [codewithdhyani.vercel.app](codewithdhyan.vercel.app)
+- 👨‍💻 All of my projects are available at [codewithdhyan.vercel.app](codewithdhyan.vercel.app)
 
 - 📝 I regularly write articles on [codewithdhyani-blogs.vercel.app](codewithdhyani-blogs.vercel.app)
 
