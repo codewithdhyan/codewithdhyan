@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithdhyan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithdhyan?logo=twitter&style=for-the-badge" alt="codewithdhyan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [codewithdhyani.vercel.app](codewithdhyani.vercel.app)
+- 👨‍💻 All of my projects are available at [codewithdhyani.vercel.app](codewithdhyan.vercel.app)
 
 - 📝 I regularly write articles on [codewithdhyani-blogs.vercel.app](codewithdhyani-blogs.vercel.app)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamdhyanisde@gmail.com**
 
-- 📄 Know about my experiences [codewithdhyani.vercel.app](codewithdhyani.vercel.app)
+- 📄 Know about my experiences [codewithdhyani.vercel.app](codewithdhyan.vercel.app)
 
 - ⚡ Fun fact **Coding sometimes infiltrates my dreams so intensely that I once dreamt I was debugging a bug in real life—only to wake up and realize I had been trying to fix a pillow that was oddly shaped like a syntax error! Turns out, even in my sleep, I'm a programmer at heart.**
 
