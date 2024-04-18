@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [codewithdhyan.vercel.app](codewithdhyan.vercel.app)
 
-- 📝 I regularly write articles on [codewithdhyani-blogs.vercel.app](codewithdhyani-blogs.vercel.app)
+- 📝 I regularly write articles on [codewithdhyan-blogs.vercel.app](codewithdhyan-blogs.vercel.app)
 
 - 💬 Ask me about **Java, Spring Boot , Hibernate, Flutter, Android and Kotlin**
 
 - 📫 How to reach me **shubhamdhyanisde@gmail.com**
 
-- 📄 Know about my experiences [codewithdhyani.vercel.app](codewithdhyan.vercel.app)
+- 📄 Know about my experiences [codewithdhyan.vercel.app](codewithdhyan.vercel.app)
 
 - ⚡ Fun fact **Coding sometimes infiltrates my dreams so intensely that I once dreamt I was debugging a bug in real life—only to wake up and realize I had been trying to fix a pillow that was oddly shaped like a syntax error! Turns out, even in my sleep, I'm a programmer at heart.**
 
