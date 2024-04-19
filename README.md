@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamdhyanisde@gmail.com**
 
-- 📄 If you want to know more about me vist <a href="https://codewithdhyan.vercel.app" target="_blank">here</a>.
+- 📄 If you want to know more about me visit <a href="https://codewithdhyan.vercel.app" target="_blank">here</a>.
 
 - ⚡ Fun fact **Coding sometimes infiltrates my dreams so intensely that I once dreamt I was debugging a bug in real life—only to wake up and realize I had been trying to fix a pillow that was oddly shaped like a syntax error! Turns out, even in my sleep, I'm a programmer at heart.**
 
