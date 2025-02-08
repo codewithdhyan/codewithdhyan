@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Dhyani</h1>
-<h3 align="center">Java Developer with 2.5+ years of experience in Spring Framework, RESTful API development, micro services architecture, and database management. Strong focus on performance optimization, security, &amp; CI/CD implementation.</h3>
+<h3 align="center">Java Developer with 3+ years of experience in Java, Kotlin, Spring Framework, Ktor, RESTful API development, micro services architecture, and database management. Strong focus on performance optimization, security, &amp; CI/CD implementation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithdhyan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdhyan" /> </p>
 
